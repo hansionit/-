@@ -5,7 +5,7 @@
 并且考虑到流量问题,只有在WIFI网络下才会启动请求
             
 本Demo适合初学者学习，主要有以下知识点：
-* Service以及Notification的基本使用；
+* Service以及Notification的基本使用
 * 判断某时间是否处于某一时间段内
 * 网络的连接状态的获取
 * SharedPreferences数据持久化
